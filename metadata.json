@@ -1,0 +1,7 @@
+{
+  "name": "Speek It",
+  "description": "Um teleprompter inteligente para treino de fala que usa textos personalizados e analisa a performance vocal do usuário em tempo real ou após a gravação, fornecendo feedback detalhado sobre dicção, ritmo e entonação.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

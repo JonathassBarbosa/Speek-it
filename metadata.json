@@ -1,7 +1,6 @@
 {
-  "name": "Speek It",
-  "description": "Um teleprompter inteligente para treino de fala que usa textos personalizados e analisa a performance vocal do usuário em tempo real ou após a gravação, fornecendo feedback detalhado sobre dicção, ritmo e entonação.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
+  "name": "Teleprompter Inteligente",
+  "description": "Sistema de teleprompter inteligente para treino de fala com análise de dicção, ritmo, entonação e pausas usando IA.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
